@@ -6,6 +6,6 @@ export function DefaultLayout() {
     <LayoutContainer>
       <Header />
       <Outlet />
-    </LayoutContainer>
+    </LayoutContainer >
   );
 }
